@@ -1,0 +1,12 @@
+.base-converter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.base-inputs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}

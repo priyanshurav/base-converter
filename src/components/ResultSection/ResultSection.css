@@ -1,0 +1,14 @@
+.result-section {
+  width: 100%;
+}
+.result-section * {
+  margin: 0;
+  padding: 0;
+}
+.result-section .result-heading {
+  margin: 10px 0 25px 0;
+  font-size: 32px;
+}
+.result-section .result {
+  margin: 15px 0;
+}
