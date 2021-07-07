@@ -1,3 +1,3 @@
 # Base converter
 
-This is a very simple base converter.
+This is a simple base converter app.
